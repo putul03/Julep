@@ -1,0 +1,5 @@
+julep
+requests
+python-dotenv
+pyyaml
+streamlit
